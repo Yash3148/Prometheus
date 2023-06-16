@@ -1,5 +1,7 @@
 Install Prometheus Server on Ubuntu 20.04
 
+Online Documentation := https://computingforgeeks.com/install-prometheus-server-on-debian-ubuntu-linux/
+
 Introduction
 Prometheus is an open-source tool written in Go language used for monitoring real-time services and collecting metrics in a time-series database. Prometheus uses visualization tools like Grafana, which uses PromQL, a flexible query language to fetch data for monitoring and analysis.
 Prometheus uses exporters, both community-maintained and official, to export metrics from third-party systems. You can find links to many exporters in the Prometheus documentation.
